@@ -7,7 +7,7 @@ const page = () => {
   <img className="w-30 h-30 nonrounded-full mx-auto" src="/Flag.jpeg" alt="" width="384" height="512"/>
   <div className="pt-6 text-center space-y-4">
     <blockquote>
-      <p className="text-lg font-medium">
+      <p className="text-lg font-medium ">
       Welcome to our page dedicated to the rich tapestry of Pakistan's culture, politics, and food. Explore the vibrant traditions, arts, and music that define Pakistani culture, from its diverse ethnic groups to its colorful festivals. Stay informed about the dynamic political landscape, with insights into the major parties, key issues, and historical influences shaping governance. Discover the flavors of Pakistan’s culinary heritage, from aromatic biryani to mouthwatering kebabs, and the cultural significance of food in everyday life. This page offers a comprehensive guide to understanding the heart and soul of Pakistan.
       </p>
     </blockquote>
